@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "platforms": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "description": "Installs/Configures tomfirst_cookbook",
+  "name": "tomfirst_cookbook",
+  "dependencies": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "groupings": {
+  },
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "recipes": {
+    "tomfirst_cookbook::tomrecipe.rb": "Prints hello world output"
+  },
+  "replacing": {
+  },
+  "suggestions": {
+  },
+  "recommendations": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "license": "All rights reserved"
+}
